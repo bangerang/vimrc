@@ -1,0 +1,6 @@
+[submodule "my_plugins/surround"]
+	path = my_plugins/surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "my_plugins/vim-system-copy"]
+	path = my_plugins/vim-system-copy
+	url = git@github.com:christoomey/vim-system-copy.git
