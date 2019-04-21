@@ -4,3 +4,6 @@
 [submodule "my_plugins/vim-system-copy"]
 	path = my_plugins/vim-system-copy
 	url = git@github.com:christoomey/vim-system-copy.git
+[submodule "my_plugins/ReplaceWithRegister"]
+	path = my_plugins/ReplaceWithRegister
+	url = git@github.com:vim-scripts/ReplaceWithRegister.git
